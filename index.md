@@ -1,5 +1,9 @@
 # Emma Jiang's First CS193 Homework
 
+List of favorite things
+- Icebreakers
+- Resources
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -23,13 +27,12 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-- **Test**
-1. _Italicized Test_
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
+- **Test**
+1. _Italicized Test_
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
